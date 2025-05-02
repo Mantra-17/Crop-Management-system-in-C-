@@ -1,0 +1,8 @@
+Farmer Name: Kishan Lal
+Crop: Wheat
+Market Price: Rs50 per Kg
+Expected Yield: 5500 Kg
+Total Cost: Rs10200
+Revenue: Rs275000
+Estimated Profit: Rs264800
+-----------------------------

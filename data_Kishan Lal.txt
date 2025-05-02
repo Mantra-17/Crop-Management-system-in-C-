@@ -1,0 +1,11 @@
+------ Farmer Record Keeper ------
+Farmer Name      : Kishan Lal
+Region (State)   : Gujarat
+Crop             : Wheat
+Season           : Monsoon
+Seed Cost        : Rs5000
+Labour Cost      : Rs1200
+Fertilizer Cost  : Rs1500
+Pesticide Cost   : Rs2500
+Land Area        : 500 acres
+----------------------------------
